@@ -81,26 +81,27 @@ dependencies:
 ### Usage 
 
 1. setting the species, root_path and trimmed sequence length in config_init.py, generate residue-level features and contact map for each gene(protein) with well-      pretrained Evolutionary Scale Modeling(esm) method
-   Running: 
-   python create_data.py 
-   Return: 
-   a bunch of gene information dictionaries for every gene: {'gene_ensembl':.., 'feature_representation':...,'cmap':...,'target':...} which are stored in the raw   package.
+   + Running: 
+   + python create_data.py 
+   + Return: 
+     a bunch of gene information dictionaries for every gene: {'gene_ensembl':.., 'feature_representation':...,'cmap':...,'target':...} which are stored in the raw   package.
 
 2. setting the n_splits, pos_samples_path, neg_samples_path and kfold_root_path in config_init.py, split the genes into training set and test set with kfold scheme.
-   Running:
-   python train_test_splitted_data.py  
-   Return(if n_split was set as 10): 
-   fold0,fold1,...,fold9 packages where each consist of idenpendent training set and test set. 
+   + Running:
+   + python train_test_splitted_data.py  
+   + Return(if n_split was set as 10): 
+     fold0,fold1,...,fold9 packages where each consist of idenpendent training set and test set. 
 
 3. setting the ratio of contact map in config_init.py, transform the protein contact map into graph, and prepare the data format to meet the need of torch geometric.
-   python protein2graph.py
-   Return: 
-   train.pt and test.pt for each fold , and those train.pt and test.pt meet the demand of torch geometric.
+   + Running: 
+   + python protein2graph.py
+   + Return: 
+     train.pt and test.pt for each fold , and those train.pt and test.pt meet the demand of torch geometric.
 
 
 4. setting the GNN, GAT or GCN, in config_init.py, then train and test model in the train-validation-test scheme under kfold cross validation
-   Running:
-   python main.py  
+   + Running:
+   + python main.py  
 
 
 
