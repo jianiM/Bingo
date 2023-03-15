@@ -1,0 +1,690 @@
+line  Ensembl  Entrez  Full_name  Uniprot_ID  Uniprot_Source
+0	WBGene00000064	179534	Actin-2	P10984	Swiss-Prot
+0	WBGene00000066	180767	Actin-4	P10986	Swiss-Prot
+0	WBGene00000067	176793	ACTin	O45815	TrEMBL
+0	WBGene00000098	179202	Aurora kinase	G5EDL3	TrEMBL
+0	WBGene00000142	179409	SUMO-activating enzyme subunit aos-1	Q17820	Swiss-Prot
+0	WBGene00000158	173304	AP-1 complex subunit gamma	Q8WQB3	TrEMBL
+0	WBGene00000159	178989	AP complex subunit sigma	O16369	TrEMBL
+0	WBGene00000160	175376	AP complex subunit beta	Q9N4F3	TrEMBL
+0	WBGene00000183	177595	ADP-Ribosylation Factor homolog	G5EFK4	TrEMBL
+0	WBGene00000197	171985	Alanine--tRNA ligase, cytoplasmic	O01541	Swiss-Prot
+0	WBGene00000207	180718	ATP synthase subunit b	Q19126	Swiss-Prot
+0	WBGene00000230	172195	ATP synthase subunit O, mitochondrial	Q7JNG1	TrEMBL
+0	WBGene00000235	176330	Barrier-to-autointegration factor 1	Q03565	Swiss-Prot
+0	WBGene00000292	177497	F-actin-capping protein subunit alpha	P34685	Swiss-Prot
+0	WBGene00000371	172832	Cytochrome OXidase assembly protein	P90849	TrEMBL
+0	WBGene00000377	174318	T-complex protein 1 subunit alpha	P41988	Swiss-Prot
+0	WBGene00000378	174421	T-complex protein 1 subunit beta	P47207	Swiss-Prot
+0	WBGene00000380	175588	T-complex protein 1 subunit epsilon	P47209	Swiss-Prot
+0	WBGene00000381	175819	T-complex protein 1 subunit zeta	P46550	Swiss-Prot
+1	WBGene00000381	175819	T-complex protein 1 subunit zeta	G8JY43	TrEMBL
+0	WBGene00000410	173023	putative cyclin-dependent kinase 9	Q9TVL3	Swiss-Prot
+0	WBGene00000413	171896	CDT1 domain-containing protein	Q86S68	TrEMBL
+0	WBGene00000502	172138	Cysteine and histidine-rich domain-containing protein 1	G5EEI8	Swiss-Prot
+0	WBGene00000549	176280	Protein CLASP-2	P32744	Swiss-Prot
+1	WBGene00000549	176280	Protein CLASP-2	K8ESK4	TrEMBL
+0	WBGene00000585	177473	Conserved oligomeric Golgi complex subunit 2	Q21444	Swiss-Prot
+0	WBGene00000833	176437	putative citrate synthase, mitochondrial	P34575	Swiss-Prot
+0	WBGene00000836	176466	Cullin-1	Q17389	Swiss-Prot
+0	WBGene00000868	180040	G2/mitotic-specific cyclin-B3	Q10654	Swiss-Prot
+0	WBGene00000869	172582	Cytochrome c domain-containing protein	Q18853	TrEMBL
+0	WBGene00000871	172399	G1/S-specific cyclin-E	O01501	Swiss-Prot
+0	WBGene00000872	175983	CYtoKinesis defect	Q7JP75	TrEMBL
+1	WBGene00000872	175983	CYtoKinesis defect	H2KYI3	TrEMBL
+0	WBGene00000890	172664	Peptidyl-prolyl cis-trans isomerase sig-7	G5EEW6	Swiss-Prot
+0	WBGene00000915	179971	Heat shock protein 90	Q18688	Swiss-Prot
+0	WBGene00000923	177622	N-alpha-acetyltransferase daf-31	O61219	Swiss-Prot
+0	WBGene00000933	174631	mammalian cell Death Associated Protein related	G5EFC8	TrEMBL
+0	WBGene00000962	172041	Dynein heavy chain, cytoplasmic	Q19020	Swiss-Prot
+1	WBGene00000962	172041	Dynein heavy chain, cytoplasmic	A0A163VTS9	TrEMBL
+0	WBGene00000994	24104403	VWFA domain-containing protein	B7WN63	TrEMBL
+1	WBGene00000994	24104403	VWFA domain-containing protein	H2KZC8	TrEMBL
+0	WBGene00001006	180819	Disks large homolog 1	G5ECY0	Swiss-Prot
+0	WBGene00001028	176211	DnaJ homolog dnj-10	Q8TA83	Swiss-Prot
+0	WBGene00001094	176334	Aspartate--tRNA ligase, cytoplasmic	Q03577	Swiss-Prot
+0	WBGene00001102	266854	DiSHevelled related	Q18239	TrEMBL
+0	WBGene00001130	181644	Dynamin	P39055	Swiss-Prot
+0	WBGene00001166	175851	Tr-type G domain-containing protein	Q23463	TrEMBL
+0	WBGene00001167	172743	Elongation factor 2	P29691	Swiss-Prot
+0	WBGene00001209	176094	Eukaryotic translation initiation factor 3 subunit A	P34339	Swiss-Prot
+0	WBGene00001215	190251	BRO1 domain-containing protein	H8ESG1	TrEMBL
+1	WBGene00001215	190251	BRO1 domain-containing protein	G5EBN5	TrEMBL
+2	WBGene00001215	190251	BRO1 domain-containing protein	Q9NA90	TrEMBL
+0	WBGene00001225	175138	Eukaryotic translation initiation factor 3 subunit B	Q9XWI6	Swiss-Prot
+0	WBGene00001226	172858	Eukaryotic translation initiation factor 3 subunit C	O02328	Swiss-Prot
+0	WBGene00001227	176268	Eukaryotic translation initiation factor 3 subunit D	P30642	Swiss-Prot
+0	WBGene00001228	172959	Eukaryotic translation initiation factor 3 subunit E	O61820	Swiss-Prot
+0	WBGene00001229	174478	Eukaryotic translation initiation factor 3 subunit F	Q18967	Swiss-Prot
+0	WBGene00001230	174346	Eukaryotic translation initiation factor 3 subunit G	Q19706	Swiss-Prot
+0	WBGene00001231	172044	Eukaryotic translation initiation factor 3 subunit H	O01974	Swiss-Prot
+0	WBGene00001235	176605	ELongin B	G5ECR7	TrEMBL
+0	WBGene00001236	190775	Elongin-C	Q9BKS1	TrEMBL
+0	WBGene00001281	174314	Cell division cycle protein 16 homolog	G5EG38	Swiss-Prot
+0	WBGene00001303	179510	Protein transport protein Sec61 subunit gamma	Q19967	Swiss-Prot
+0	WBGene00001333	172174	Moesin/ezrin/radixin homolog 1	G5EBK3	TrEMBL
+1	WBGene00001333	172174	Moesin/ezrin/radixin homolog 1	G5EES2	TrEMBL
+0	WBGene00001358	191632	ADP-ribosylation factor-like protein 2	Q19705	Swiss-Prot
+0	WBGene00001423	179999	rRNA 2'-O-methyltransferase fibrillarin	Q22053	Swiss-Prot
+0	WBGene00001481	171895	RRM domain-containing protein	A0A0K3ATT1	TrEMBL
+1	WBGene00001481	171895	RRM domain-containing protein	A0A0K3AQU4	TrEMBL
+0	WBGene00001497	172311	Phenylalanine--tRNA ligase	Q9GYS8	TrEMBL
+0	WBGene00001498	174351	Phenylalanine--tRNA ligase beta subunit	Q19713	Swiss-Prot
+0	WBGene00001511	266859	WD repeat-containing protein fzy-1	Q09373	Swiss-Prot
+0	WBGene00001513	179027	Gastrulation defective protein 1	O16519	Swiss-Prot
+0	WBGene00001557	191658	Soluble guanylate cyclase gcy-37	Q6DNF3	Swiss-Prot
+0	WBGene00001566	177654	Acyl CoA DeHydrogenase	H2KYN3	TrEMBL
+0	WBGene00001568	172711	snRNA-activating protein complex subunit 4 homolog	P91868	Swiss-Prot
+0	WBGene00001580	178191	Membrane-associated protein gex-3	P55163	Swiss-Prot
+0	WBGene00001595	172532	Female germline-specific tumor suppressor gld-1	Q17339	Swiss-Prot
+0	WBGene00001834	179959	Histone deacetylase 1	O17695	Swiss-Prot
+0	WBGene00001876	180074	Histone H3	P08898	Swiss-Prot
+1	WBGene00001876	180074	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001877	180073	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001880	191668	Histone H3	P08898	Swiss-Prot
+1	WBGene00001880	191668	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001881	191669	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001885	175029	Histone H2B 1	P04255	Swiss-Prot
+0	WBGene00001886	175028	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001889	175026	Histone H2B 1	P04255	Swiss-Prot
+0	WBGene00001890	175025	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001891	191673	Histone H3	P08898	Swiss-Prot
+1	WBGene00001891	191673	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001893	259800	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001895	179265	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001901	246024	Histone H3	P08898	Swiss-Prot
+1	WBGene00001901	246024	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001903	185332	Histone H2B 1	P04255	Swiss-Prot
+0	WBGene00001904	191676	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001906	177628	Histone H3	P08898	Swiss-Prot
+1	WBGene00001906	177628	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001907	191678	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001908	191679	Histone H2B 1	P04255	Swiss-Prot
+0	WBGene00001914	13221387	Histone H3	P08898	Swiss-Prot
+1	WBGene00001914	13221387	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001917	175034	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001918	175033	Histone H2B 1	P04255	Swiss-Prot
+0	WBGene00001920	178050	Histone H4	P62784	Swiss-Prot
+0	WBGene00001921	178048	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001922	178049	putative histone H2B 4	Q27876	Swiss-Prot
+0	WBGene00001923	184113	Histone H3	P08898	Swiss-Prot
+1	WBGene00001923	184113	Histone H3	K7ZUH9	TrEMBL
+0	WBGene00001925	179261	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001927	184112	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001930	178055	Histone H4	P62784	Swiss-Prot
+0	WBGene00001931	178056	Histone H2A	P09588	Swiss-Prot
+1	WBGene00001931	178056	Histone H2A	J7S164	TrEMBL
+2	WBGene00001931	178056	Histone H2A	J7SA65	TrEMBL
+0	WBGene00001932	186251	putative histone H2B 4	Q27876	Swiss-Prot
+0	WBGene00001934	177522	Histone H4	P62784	Swiss-Prot
+0	WBGene00001935	177521	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001936	186326	putative histone H2B 4	Q27876	Swiss-Prot
+0	WBGene00001938	178066	Histone H4	P62784	Swiss-Prot
+0	WBGene00001939	186671	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001940	186670	putative histone H2B 4	Q27876	Swiss-Prot
+0	WBGene00001941	188792	Histone H4	P62784	Swiss-Prot
+0	WBGene00001942	172860	Histone H2A	P09588	Swiss-Prot
+0	WBGene00001974	176052	FACT complex subunit SSRP1-A	P41848	Swiss-Prot
+0	WBGene00001978	179624	Alpha-catenin-like protein hmp-1	P90947	Swiss-Prot
+1	WBGene00001978	179624	Alpha-catenin-like protein hmp-1	I7LFF2	TrEMBL
+2	WBGene00001978	179624	Alpha-catenin-like protein hmp-1	A5JYX3	TrEMBL
+3	WBGene00001978	179624	Alpha-catenin-like protein hmp-1	I7J4D2	TrEMBL
+4	WBGene00001978	179624	Alpha-catenin-like protein hmp-1	F5GUG3	TrEMBL
+0	WBGene00002000	173086	Heterogeneous nuclear RibonucleoProtein (HnRNP) R homolog	B3KYC2	TrEMBL
+1	WBGene00002000	173086	Heterogeneous nuclear RibonucleoProtein (HnRNP) R homolog	Q9NLD1	TrEMBL
+0	WBGene00002001	177978	Histidine--tRNA ligase	P34183	Swiss-Prot
+0	WBGene00002005	178507	Heat shock protein hsp-1	P09446	Swiss-Prot
+0	WBGene00002025	175316	Chaperonin homolog Hsp-60, mitochondrial	P50140	Swiss-Prot
+1	WBGene00002025	175316	Chaperonin homolog Hsp-60, mitochondrial	G8JYF5	TrEMBL
+2	WBGene00002025	175316	Chaperonin homolog Hsp-60, mitochondrial	V6CLG8	TrEMBL
+0	WBGene00002045	174090	Transcription factor BTF3 homolog	Q18885	Swiss-Prot
+0	WBGene00002046	177730	Chloride conductance regulatory protein ICln	G5EG22	TrEMBL
+1	WBGene00002046	177730	Chloride conductance regulatory protein ICln	G5EFZ5	TrEMBL
+0	WBGene00002047	171788	INCENP_ARK-bind domain-containing protein	X5M920	TrEMBL
+1	WBGene00002047	171788	INCENP_ARK-bind domain-containing protein	G5EE37	TrEMBL
+0	WBGene00002064	176373	Eukaryotic translation initiation factor 5A;Eukaryotic translation initiation factor 5A-1;eIF-5a domain-containing protein	P34563	Swiss-Prot
+1	WBGene00002064	176373	Eukaryotic translation initiation factor 5A;Eukaryotic translation initiation factor 5A-1;eIF-5a domain-containing protein	G1K0V9	TrEMBL
+2	WBGene00002064	176373	Eukaryotic translation initiation factor 5A;Eukaryotic translation initiation factor 5A-1;eIF-5a domain-containing protein	G1K0V8	TrEMBL
+0	WBGene00002068	173872	Securin-like protein	Q18235	Swiss-Prot
+0	WBGene00002073	172329	Importin subunit alpha-2	P91276	Swiss-Prot
+0	WBGene00002075	172110	Importin N-terminal domain-containing protein	Q9BIB8	TrEMBL
+0	WBGene00002076	175094	Importin N-terminal domain-containing protein	O62332	TrEMBL
+1	WBGene00002076	175094	Importin N-terminal domain-containing protein	A0A131MBF9	TrEMBL
+2	WBGene00002076	175094	Importin N-terminal domain-containing protein	O62333	TrEMBL
+0	WBGene00002079	171621	CAS_CSE1 domain-containing protein;Exportin-2	V6CKP0	TrEMBL
+1	WBGene00002079	171621	CAS_CSE1 domain-containing protein;Exportin-2	Q965V4	TrEMBL
+0	WBGene00002083	175966	Eukaryotic initiation factor 4A	P27639	Swiss-Prot
+0	WBGene00002130	178101	Innexin-8	Q23593	Swiss-Prot
+0	WBGene00002131	191694	Innexin	Q23594	TrEMBL
+0	WBGene00002196	172610	Casein kinase II subunit beta	P28548	Swiss-Prot
+0	WBGene00002229	176750	Kinesin motor domain-containing protein	O45935	Swiss-Prot
+0	WBGene00002238	174159	Lysine--tRNA ligase	Q22099	Swiss-Prot
+1	WBGene00002238	174159	Lysine--tRNA ligase	Q95ZQ3	TrEMBL
+0	WBGene00002247	177292	LAMinin related. See also lmb-	O44565	TrEMBL
+0	WBGene00002363	178117	Serine/threonine-protein phosphatase 2A catalytic subunit	G5EGK8	Swiss-Prot
+0	WBGene00002632	179171	PDZ domain-containing protein;Protein lap1	O61967	Swiss-Prot
+0	WBGene00002845	175971	CCR4-NOT transcription complex subunit let-711	Q20937	Swiss-Prot
+0	WBGene00002879	176118	Adenylate kinase	P34346	Swiss-Prot
+0	WBGene00002889	175934	Protein strawberry notch homolog	O01737	Swiss-Prot
+0	WBGene00002985	179502	DNA ligase 1	Q27474	Swiss-Prot
+0	WBGene00002994	174267	Spindle apparatus protein lin-5	P45970	Swiss-Prot
+0	WBGene00003002	176083	Zinc finger protein lin-13	Q11107	Swiss-Prot
+0	WBGene00003009	174058	F-box domain-containing protein;F-box/WD repeat-containing protein lin-23	Q09990	Swiss-Prot
+1	WBGene00003009	174058	F-box domain-containing protein;F-box/WD repeat-containing protein lin-23	A0A0K3AUM4	TrEMBL
+2	WBGene00003009	174058	F-box domain-containing protein;F-box/WD repeat-containing protein lin-23	A0A0K3ARM6	TrEMBL
+3	WBGene00003009	174058	F-box domain-containing protein;F-box/WD repeat-containing protein lin-23	A0A0K3AWY7	TrEMBL
+0	WBGene00003047	176758	Lissencephaly-1 homolog	Q9NDC9	Swiss-Prot
+0	WBGene00003048	176808	Serine/threonine kinase NLK	Q9U9Y8	Swiss-Prot
+0	WBGene00003061	172037	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial	Q9N4L8	TrEMBL
+0	WBGene00003071	172520	Low-density lipoprotein receptor-related protein	Q04833	Swiss-Prot
+0	WBGene00003073	175538	Leucine--tRNA ligase	Q09996	Swiss-Prot
+0	WBGene00003074	172499	Leucine--tRNA ligase;Leucyl-tRNA synthetase	Q23511	TrEMBL
+1	WBGene00003074	172499	Leucine--tRNA ligase;Leucyl-tRNA synthetase	B3WFV4	TrEMBL
+0	WBGene00003123	173073	Protein mago nashi homolog	P49029	Swiss-Prot
+0	WBGene00003154	174841	DNA replication licensing factor MCM2	Q7K7J6	TrEMBL
+1	WBGene00003154	174841	DNA replication licensing factor MCM2	Q9XXI9	TrEMBL
+0	WBGene00003155	180010	DNA replication licensing factor MCM3	Q9XVR7	TrEMBL
+0	WBGene00003156	171793	DNA replication licensing factor mcm-4	Q95XQ8	Swiss-Prot
+1	WBGene00003156	171793	DNA replication licensing factor mcm-4	A0A061AL94	TrEMBL
+0	WBGene00003159	178831	DNA replication licensing factor MCM7	O16297	TrEMBL
+0	WBGene00003162	175936	putative malate dehydrogenase, mitochondrial	O02640	Swiss-Prot
+0	WBGene00003184	172374	Meiotic spindle formation protein 2	O44740	Swiss-Prot
+0	WBGene00003209	172737	Protein maternal effect lethal 26	Q94420	Swiss-Prot
+1	WBGene00003209	172737	Protein maternal effect lethal 26	K8F7T2	TrEMBL
+0	WBGene00003229	171607	Muscle EXcess	H2L067	TrEMBL
+1	WBGene00003229	171607	Muscle EXcess	V6CKQ3	TrEMBL
+0	WBGene00003231	174504	Zinc finger protein mex-6	Q09436	Swiss-Prot
+0	WBGene00003392	175117	putative pre-mRNA-splicing factor ATP-dependent RNA helicase mog-4	O45244	Swiss-Prot
+1	WBGene00003392	175117	putative pre-mRNA-splicing factor ATP-dependent RNA helicase mog-4	U4PDV5	TrEMBL
+0	WBGene00003393	173920	putative pre-mRNA-splicing factor ATP-dependent RNA helicase mog-5	Q09530	Swiss-Prot
+0	WBGene00003415	178089	Methionine--tRNA ligase, cytoplasmic;tRNA-binding domain-containing protein	Q20970	Swiss-Prot
+1	WBGene00003415	178089	Methionine--tRNA ligase, cytoplasmic;tRNA-binding domain-containing protein	D3YT56	TrEMBL
+0	WBGene00003596	172624	Nucleolar GTP-binding protein 2	Q9XXN4	TrEMBL
+0	WBGene00003777	172562	Non-muscle MYosin	G5EBY3	TrEMBL
+0	WBGene00003788	172611	Nuclear pore complex protein Nup85	Q22078	TrEMBL
+0	WBGene00003795	175443	Nuclear Pore complex Protein	Q86G90	TrEMBL
+1	WBGene00003795	175443	Nuclear Pore complex Protein	Q21021	TrEMBL
+0	WBGene00003797	171954	Nuclear Pore complex Protein	O01576	TrEMBL
+0	WBGene00003806	176957	Protein SEC13 homolog	Q9N4A7	Swiss-Prot
+0	WBGene00003818	266842	Vesicle-fusing ATPase	Q94392	Swiss-Prot
+1	WBGene00003818	266842	Vesicle-fusing ATPase	Q09EE7	TrEMBL
+0	WBGene00003825	173773	NOT2_3_5 domain-containing protein	Q10923	TrEMBL
+1	WBGene00003825	173773	NOT2_3_5 domain-containing protein	B2MZA9	TrEMBL
+2	WBGene00003825	173773	NOT2_3_5 domain-containing protein	Q95QZ4	TrEMBL
+0	WBGene00003834	191736	Nuclear RNA export factor 1	B5BM32	TrEMBL
+0	WBGene00003836	171866	NTF2 domain-containing protein;NTF2-related export protein	Q9U757	Swiss-Prot
+1	WBGene00003836	171866	NTF2 domain-containing protein;NTF2-related export protein	G8JYG1	TrEMBL
+0	WBGene00003901	175750	putative serine/threonine-protein phosphatase PP2A regulatory subunit	Q09543	Swiss-Prot
+1	WBGene00003901	175750	putative serine/threonine-protein phosphatase PP2A regulatory subunit	V5XY55	TrEMBL
+0	WBGene00003904	172768	RRM domain-containing protein	Q93233	TrEMBL
+0	WBGene00003912	175638	Homeobox protein pal-1	P34766	Swiss-Prot
+0	WBGene00003922	179941	Proteasome subunit alpha type-6	O17586	Swiss-Prot
+0	WBGene00003924	172139	Proteasome subunit alpha type-4	Q9N599	Swiss-Prot
+0	WBGene00003925	172679	Proteasome subunit alpha type-7	Q95005	Swiss-Prot
+0	WBGene00003926	172942	Proteasome subunit alpha type-5	Q95008	Swiss-Prot
+0	WBGene00003927	178943	Proteasome subunit alpha type-1	O44156	Swiss-Prot
+0	WBGene00003928	174571	Proteasome subunit alpha type-3	Q09583	Swiss-Prot
+0	WBGene00003939	185022	Paired box protein 3 homolog	G5ED66	Swiss-Prot
+0	WBGene00003949	173858	Proteasome subunit beta type-3	Q23237	Swiss-Prot
+0	WBGene00003951	173334	Proteasome subunit pbs-5	Q9XUV0	Swiss-Prot
+0	WBGene00003989	173161	Profilin-1	Q9XW16	Swiss-Prot
+0	WBGene00004011	187454	Homeobox domain-containing protein	Q21578	Swiss-Prot
+0	WBGene00004013	180357	Defective pharyngeal development protein 4	Q17381	Swiss-Prot
+0	WBGene00004014	171768	Mitochondrial prohibitin complex protein 1	Q9BKU4	Swiss-Prot
+0	WBGene00004015	174034	Mitochondrial prohibitin complex protein 2	P50093	Swiss-Prot
+0	WBGene00004016	3564851	PHd Finger family	G5EBY6	TrEMBL
+0	WBGene00004027	176667	Pharynx and intestine in excess protein 1	Q94131	Swiss-Prot
+0	WBGene00004042	176143	Serine/threonine-protein kinase plk-1	P34331	Swiss-Prot
+0	WBGene00004078	179224	POsterior Segregation	G5EF15	TrEMBL
+0	WBGene00004090	174138	putative translation initiation factor eIF-2B subunit gamma	P80361	Swiss-Prot
+0	WBGene00004101	177617	Hepatocyte growth factor-regulated tyrosine kinase substrate	Q17796	TrEMBL
+0	WBGene00004125	176130	Glutamine/asparagine-rich protein mdt-30	P34428	Swiss-Prot
+0	WBGene00004136	178893	Prion-like-(Q/N-rich)-domain-bearing protein	O44625	TrEMBL
+0	WBGene00004180	176358	DNA primase small subunit	P34471	Swiss-Prot
+1	WBGene00004180	176358	DNA primase small subunit	G3MTW9	TrEMBL
+0	WBGene00004181	173122	DNA primase large subunit	O02334	Swiss-Prot
+1	WBGene00004181	173122	DNA primase large subunit	D7SFP4	TrEMBL
+0	WBGene00004187	176153	Pre-mRNA-splicing factor 8 homolog	P34369	Swiss-Prot
+0	WBGene00004188	173440	uncharacterized protein	G5ECL3	TrEMBL
+0	WBGene00004189	176024	Prolyl-tRNA synthetase	Q65ZK5	TrEMBL
+1	WBGene00004189	176024	Prolyl-tRNA synthetase	Q22620	TrEMBL
+0	WBGene00004268	172755	RAB family	P91857	TrEMBL
+0	WBGene00004303	176115	Ran GTPase-activating protein 2	P34342	Swiss-Prot
+0	WBGene00004312	172801	putative histone-binding protein rba-1	P90917	Swiss-Prot
+0	WBGene00004320	179358	RING-box protein 1	Q23457	Swiss-Prot
+0	WBGene00004340	175976	Replication factor C subunit 4	P53016	Swiss-Prot
+0	WBGene00004343	176320	Mediator of RNA polymerase II transcription subunit 14	Q03570	Swiss-Prot
+0	WBGene00004357	178458	Ras-like GTP-binding protein rhoA	Q22038	Swiss-Prot
+0	WBGene00004374	177329	EGF-like domain-containing protein	O44191	TrEMBL
+0	WBGene00004390	176002	U1 small nuclear ribonucleoprotein 70 kDa	Q09584	TrEMBL
+0	WBGene00004391	176301	Ribonucleoside-diphosphate reductase large subunit	Q03604	Swiss-Prot
+0	WBGene00004392	175525	Ribonucleoside-diphosphate reductase small chain	P42170	Swiss-Prot
+0	WBGene00004412	171853	60S ribosomal protein L10a;Ribosomal protein	Q9N4I4	Swiss-Prot
+0	WBGene00004414	175501	60S ribosomal protein L3	P50880	Swiss-Prot
+1	WBGene00004414	175501	60S ribosomal protein L3	G5ECE5	TrEMBL
+2	WBGene00004414	175501	60S ribosomal protein L3	G5EEC0	TrEMBL
+0	WBGene00004415	172074	60S ribosomal protein L4	O02056	Swiss-Prot
+0	WBGene00004417	176015	60S ribosomal protein L6	P47991	Swiss-Prot
+0	WBGene00004419	177203	60S ribosomal protein L7a	Q966C6	Swiss-Prot
+0	WBGene00004420	176071	60S ribosomal protein L9	Q95Y90	Swiss-Prot
+0	WBGene00004421	174311	60S ribosomal protein L10	Q09533	Swiss-Prot
+0	WBGene00004422	178778	60S ribosomal protein L11-1	Q94300	Swiss-Prot
+1	WBGene00004422	178778	60S ribosomal protein L11-1	A0A131MBQ6	TrEMBL
+0	WBGene00004423	180535	60S ribosomal protein L11-2	Q19162	Swiss-Prot
+0	WBGene00004424	178279	60S ribosomal protein L12	P61866	Swiss-Prot
+0	WBGene00004425	171949	60S ribosomal protein L13	P91128	Swiss-Prot
+0	WBGene00004426	172818	60S ribosomal protein L14	Q9XVE9	TrEMBL
+0	WBGene00004429	171692	60S ribosomal protein L17	Q9BL19	Swiss-Prot
+0	WBGene00004430	178342	60S ribosomal protein L18	O45946	Swiss-Prot
+0	WBGene00004432	24104384	60S ribosomal protein L18a	O44480	Swiss-Prot
+0	WBGene00004434	173873	60S ribosomal protein L22	P52819	Swiss-Prot
+0	WBGene00004435	175796	60S ribosomal protein L23	P48158	Swiss-Prot
+0	WBGene00004436	172062	60S ribosomal protein L24	O01868	Swiss-Prot
+0	WBGene00004439	172617	60S ribosomal protein L23a 2	Q20647	Swiss-Prot
+0	WBGene00004448	178173	60S ribosomal protein L34	A3QMC5	TrEMBL
+0	WBGene00004449	176097	60S ribosomal protein L35	P34662	Swiss-Prot
+0	WBGene00004450	176007	60S ribosomal protein L36	P49181	Swiss-Prot
+0	WBGene00004454	174695	Ribosomal protein rpl-36.A	P48166	Swiss-Prot
+0	WBGene00004456	175070	60S ribosomal protein L37a	Q9U2A8	Swiss-Prot
+0	WBGene00004458	177455	26S proteasome non-ATPase regulatory subunit 2	Q9GZH5	TrEMBL
+0	WBGene00004459	175877	26S proteasome non-ATPase regulatory subunit 1	Q18115	Swiss-Prot
+0	WBGene00004460	176196	26S proteasome non-ATPase regulatory subunit 3	Q04908	Swiss-Prot
+0	WBGene00004464	172009	MPN domain-containing protein	O61792	TrEMBL
+0	WBGene00004467	173744	26S proteasome non-ATPase regulatory subunit 14	O76577	Swiss-Prot
+0	WBGene00004472	175879	40S ribosomal protein S3	P48152	Swiss-Prot
+0	WBGene00004473	177481	40S ribosomal protein S4	Q9N3X2	Swiss-Prot
+0	WBGene00004474	178012	40S ribosomal protein S5	P49041	Swiss-Prot
+0	WBGene00004476	172901	40S ribosomal protein S7	Q23312	Swiss-Prot
+0	WBGene00004478	174699	40S ribosomal protein S9	Q20228	Swiss-Prot
+0	WBGene00004482	175901	40S ribosomal protein S13	P51404	Swiss-Prot
+0	WBGene00004483	176006	40S ribosomal protein S14	P48150	Swiss-Prot
+0	WBGene00004484	172693	40S ribosomal protein S15	Q9XVP0	Swiss-Prot
+0	WBGene00004486	172313	40S ribosomal protein S17	O01692	Swiss-Prot
+0	WBGene00004489	173309	40S ribosomal protein S20	Q8WQA8	TrEMBL
+0	WBGene00004490	176011	40S ribosomal protein S21	P49197	Swiss-Prot
+0	WBGene00004492	178188	40S ribosomal protein S23	Q19877	Swiss-Prot
+0	WBGene00004495	173342	40S ribosomal protein S26	O45499	Swiss-Prot
+0	WBGene00004497	176975	40S ribosomal protein S28	Q95Y04	Swiss-Prot
+0	WBGene00004503	175925	putative 26S proteasome regulatory subunit 6B	P46502	Swiss-Prot
+0	WBGene00004505	172238	26S protease regulatory subunit 6A	O76371	Swiss-Prot
+0	WBGene00004679	175659	Arginyl-tRNA synthetase;putative arginine--tRNA ligase, cytoplasmic	Q19825	Swiss-Prot
+1	WBGene00004679	175659	Arginyl-tRNA synthetase;putative arginine--tRNA ligase, cytoplasmic	A5HU89	TrEMBL
+2	WBGene00004679	175659	Arginyl-tRNA synthetase;putative arginine--tRNA ligase, cytoplasmic	Q65ZK0	TrEMBL
+0	WBGene00004726	176172	Spindle assembly abnormal protein 4	P34402	Swiss-Prot
+0	WBGene00004738	179749	Cohesin subunit scc-3	Q19555	Swiss-Prot
+0	WBGene00004754	180317	Protein transport protein SEC23	Q9U2Z1	TrEMBL
+0	WBGene00004755	178078	uncharacterized protein	Q19371	TrEMBL
+0	WBGene00004765	175464	Protein lag-3	Q09260	Swiss-Prot
+0	WBGene00004806	179598	mammalian SKIP (Ski interacting protein) homolog	Q22836	Swiss-Prot
+0	WBGene00004808	172773	Skp1-related protein	G5EDD8	TrEMBL
+0	WBGene00004915	173204	putative small nuclear ribonucleoprotein-associated protein B	P91918	Swiss-Prot
+0	WBGene00004916	174072	Sm domain-containing protein;putative small nuclear ribonucleoprotein Sm D1	Q10013	Swiss-Prot
+1	WBGene00004916	174072	Sm domain-containing protein;putative small nuclear ribonucleoprotein Sm D1	M1ZJ32	TrEMBL
+0	WBGene00004919	176668	putative small nuclear ribonucleoprotein E	Q9XTU6	Swiss-Prot
+0	WBGene00004920	171834	putative small nuclear ribonucleoprotein G	Q9N4G9	Swiss-Prot
+0	WBGene00004955	172155	Spindle-defective protein 5	P91349	Swiss-Prot
+0	WBGene00005022	179484	UDP-glucose 6-dehydrogenase	Q19905	Swiss-Prot
+0	WBGene00005663	177859	putative serine--tRNA ligase, cytoplasmic	Q18678	Swiss-Prot
+0	WBGene00006307	174380	Suf domain-containing protein	Q19866	TrEMBL
+0	WBGene00006311	179802	Sun domain-containing protein 1	Q20924	Swiss-Prot
+0	WBGene00006373	179611	Putative syntaxin-5	Q20797	Swiss-Prot
+0	WBGene00006374	177647	Putative syntaxin-4	P91409	Swiss-Prot
+0	WBGene00006379	172859	SYmmetrical Sister cell hermaphrodite gonad defect	A0A0K3ARA0	TrEMBL
+1	WBGene00006379	172859	SYmmetrical Sister cell hermaphrodite gonad defect	Q9XVI2	TrEMBL
+2	WBGene00006379	172859	SYmmetrical Sister cell hermaphrodite gonad defect	Q95ZN3	TrEMBL
+0	WBGene00006481	179500	WD_REPEATS_REGION domain-containing protein	G5ECP2	TrEMBL
+1	WBGene00006481	179500	WD_REPEATS_REGION domain-containing protein	G5EEL2	TrEMBL
+0	WBGene00006497	173812	Pre-rRNA-processing protein TSR1 homolog	Q19329	Swiss-Prot
+0	WBGene00006515	182257	Thioredoxin domain-containing protein 9	Q11183	Swiss-Prot
+0	WBGene00006537	175519	Tubulin beta-2 chain	P52275	Swiss-Prot
+0	WBGene00006552	190493	Putative T-box protein 33	O45291	Swiss-Prot
+0	WBGene00006565	173277	Protein tfg-1	Q9U1W1	Swiss-Prot
+0	WBGene00006573	176580	Mitochondrial import inner membrane translocase subunit Tim10	Q9Y0V6	Swiss-Prot
+0	WBGene00006648	178544	Transcription initiation factor IIB	O16991	Swiss-Prot
+0	WBGene00006699	177855	UBA_e1_C domain-containing protein	Q27481	TrEMBL
+0	WBGene00006727	175840	Ubiquitin-related	P0CG71	Swiss-Prot
+0	WBGene00006733	3565860	Ubiquitin fusion degradation protein 1 homolog	Q19584	Swiss-Prot
+1	WBGene00006733	3565860	Ubiquitin fusion degradation protein 1 homolog	Q9U3I6	TrEMBL
+0	WBGene00006773	172394	Transcription factor unc-37	O02482	Swiss-Prot
+0	WBGene00006826	180827	LIM domain-containing protein unc-97	P50464	Swiss-Prot
+0	WBGene00006836	179972	Protein unc-112	Q18685	Swiss-Prot
+0	WBGene00006910	176383	V-type proton ATPase 16 kDa proteolipid subunit 1	Q21898	Swiss-Prot
+0	WBGene00006911	187779	V-type proton ATPase 16 kDa proteolipid subunit 3	C0HLB4	Swiss-Prot
+1	WBGene00006911	187779	V-type proton ATPase 16 kDa proteolipid subunit 3	C0HLB3	Swiss-Prot
+0	WBGene00006913	174272	Vacuolar H ATPase	G5EDB8	Swiss-Prot
+0	WBGene00006917	177442	Vacuolar H ATPase	Q95X44	Swiss-Prot
+0	WBGene00006920	177017	V-type proton ATPase subunit C	Q9XXU9	Swiss-Prot
+0	WBGene00006921	180692	putative V-type proton ATPase subunit B	Q19626	Swiss-Prot
+0	WBGene00006940	174531	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase wee-1.3	O18209	Swiss-Prot
+0	WBGene00006945	180231	Tryptophanyl-tRNA synthetase	G5EDY2	TrEMBL
+0	WBGene00006997	24105291	Zygote defective protein 12	Q23529	Swiss-Prot
+0	WBGene00007000	175398	Elongation factor Tu, mitochondrial	G5ECM6	TrEMBL
+0	WBGene00007012	173852	Mediator of RNA polymerase II transcription subunit 4	Q23523	Swiss-Prot
+0	WBGene00007017	180325	Mediator of RNA polymerase II transcription subunit 17	Q9NAL4	Swiss-Prot
+0	WBGene00007117	353452	DC_STAMP domain-containing protein	Q17461	TrEMBL
+0	WBGene00007124	181884	Uncharacterized protein	H2L2H0	TrEMBL
+0	WBGene00007184	176335	RNA polymerase-associated protein CTR9	Q03560	Swiss-Prot
+0	WBGene00007192	174734	NADH Ubiquinone oxidoreductase Fe-S protein	Q17512	TrEMBL
+0	WBGene00007501	182479	Anaphase-promoting complex subunit 1	Q17883	TrEMBL
+0	WBGene00007564	174632	Mitochondrial Ribosomal Protein, Small	Q9U3Q0	TrEMBL
+0	WBGene00007586	179725	RNAi-Induced Longevity	E3W740	TrEMBL
+1	WBGene00007586	179725	RNAi-Induced Longevity	Q17973	TrEMBL
+2	WBGene00007586	179725	RNAi-Induced Longevity	Q52GY7	TrEMBL
+0	WBGene00007587	179724	Uncharacterized protein	Q17974	TrEMBL
+0	WBGene00007712	182876	L51_S25_CI-B8 domain-containing protein	O02220	TrEMBL
+0	WBGene00007880	177786	putative NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5	Q18359	Swiss-Prot
+0	WBGene00007959	3564990	Uncharacterized protein	Q7YTQ9	TrEMBL
+0	WBGene00008002	176319	Neuropeptide-Like Protein	Q7YX47	TrEMBL
+0	WBGene00008149	177856	Inorganic pyrophosphatase 1	Q18680	Swiss-Prot
+0	WBGene00008164	174722	Mitochondrial import inner membrane translocase subunit tim-22	Q9NAQ9	Swiss-Prot
+0	WBGene00008262	179958	RNAi-Induced Longevity	O17694	TrEMBL
+0	WBGene00008338	179583	RNA polymerase II-associated factor 1 homolog	P90783	Swiss-Prot
+0	WBGene00008340	3565906	Uncharacterized protein	Q7YX68	TrEMBL
+0	WBGene00008380	179499	Pre-mRNA-splicing factor 38	Q18942	TrEMBL
+0	WBGene00008386	172639	Cell Division Cycle related	G5EFC4	TrEMBL
+0	WBGene00008428	174387	eIF-2B GDP-GTP exchange factor subunit epsilon	Q18994	TrEMBL
+0	WBGene00008452	179721	Putative 28S ribosomal protein S5, mitochondrial	Q93425	Swiss-Prot
+0	WBGene00008455	183993	putative dimethyladenosine transferase	Q09522	Swiss-Prot
+0	WBGene00008506	177906	Transket_pyr domain-containing protein	O17759	TrEMBL
+0	WBGene00008546	174778	Glutamine--fructose-6-phosphate transaminase (isomerizing)	Q95QM8	TrEMBL
+0	WBGene00008639	184284	Protein AAR2 homolog	Q09305	Swiss-Prot
+0	WBGene00008642	174310	Integrator complex subunit 11	Q9U3K2	TrEMBL
+0	WBGene00008683	178147	Matrin-type domain-containing protein	Q19335	TrEMBL
+0	WBGene00008722	178077	putative DNA polymerase delta small subunit	Q19366	Swiss-Prot
+0	WBGene00008769	172479	Mitochondrial Ribosomal Protein, Large	Q95QL2	TrEMBL
+0	WBGene00008857	173041	Translocase, Inner Mitochondrial Membrane	Q9XVQ2	TrEMBL
+0	WBGene00008920	179522	putative elongation factor 1-gamma	P54412	Swiss-Prot
+0	WBGene00008948	178181	Uridine kinase	Q9U3I7	TrEMBL
+1	WBGene00008948	178181	Uridine kinase	D3YT38	TrEMBL
+0	WBGene00009006	177678	Phosphoacetylglucosamine mutase	Q19680	TrEMBL
+0	WBGene00009051	184827	putative NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial	Q19724	Swiss-Prot
+0	WBGene00009092	179691	Mitochondrial import receptor subunit TOM20 homolog	Q19766	Swiss-Prot
+0	WBGene00009103	179345	RNA polymerase-associated protein RTF1 homolog	G5EBY0	Swiss-Prot
+0	WBGene00009223	180048	Coiled-coil domain-containing protein mdt-28	H9G301	Swiss-Prot
+0	WBGene00009287	185146	putative DNA replication complex GINS protein PSF2	O62193	Swiss-Prot
+0	WBGene00009289	180369	RNase_PH domain-containing protein	G5EDS8	TrEMBL
+0	WBGene00009329	259646	PIH1 domain-containing protein	Q19965	TrEMBL
+0	WBGene00009342	172715	3-oxoacyl-[acyl-carrier-protein] reductase	P91871	TrEMBL
+0	WBGene00009353	174692	Putative succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial	O62215	Swiss-Prot
+0	WBGene00009368	173368	DNA polymerase epsilon catalytic subunit	O62218	TrEMBL
+0	WBGene00009454	172692	Uncharacterized protein	P90860	TrEMBL
+0	WBGene00009477	172720	Retinoblastoma Binding Protein Like	Q38G51	TrEMBL
+1	WBGene00009477	172720	Retinoblastoma Binding Protein Like	O62235	TrEMBL
+0	WBGene00009542	177779	putative coatomer subunit beta'	Q20168	Swiss-Prot
+0	WBGene00009587	178082	Abnormal cell migration protein 38	A6ZJ71	Swiss-Prot
+0	WBGene00009664	172655	putative isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial	Q93714	Swiss-Prot
+0	WBGene00009671	172661	Microfibrillar-associated protein 1	Q93712	Swiss-Prot
+0	WBGene00009672	172662	GCFC domain-containing protein	G5EBK6	TrEMBL
+1	WBGene00009672	172662	GCFC domain-containing protein	G5ECH1	TrEMBL
+0	WBGene00009712	174435	putative NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial	Q20412	Swiss-Prot
+0	WBGene00009926	178365	uncharacterized protein	Q9XUE5	TrEMBL
+0	WBGene00009966	179524	Protein isy-1	Q20716	Swiss-Prot
+0	WBGene00009969	3565452	Uncharacterized protein	Q7YX03	TrEMBL
+0	WBGene00010015	174590	ATPase family AAA domain-containing protein 3	Q20748	Swiss-Prot
+0	WBGene00010093	179684	CAP-G condensin subunit	Q20818	TrEMBL
+0	WBGene00010097	179686	putative signal recognition particle subunit SRP68	Q20822	Swiss-Prot
+0	WBGene00010260	179897	RNA helicase	Q9XUW5	TrEMBL
+0	WBGene00010326	172933	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10	Q93831	TrEMBL
+0	WBGene00010351	178061	Chitin-binding domain protein cbd-1	O45599	Swiss-Prot
+0	WBGene00010405	179537	GTP_EFTU_D3 domain-containing protein;Tr-type G domain-containing protein	O45622	TrEMBL
+0	WBGene00010419	173134	ATP synthase subunit alpha, mitochondrial	Q9XXK1	Swiss-Prot
+0	WBGene00010496	172641	WD_REPEATS_REGION domain-containing protein	Q21115	TrEMBL
+0	WBGene00010609	172794	dUTP diphosphatase	G5EET2	TrEMBL
+0	WBGene00010624	187087	28S ribosomal protein S15, mitochondrial	Q9NAP9	Swiss-Prot
+0	WBGene00010629	179443	Pre-mRNA-splicing factor SLU7	Q21278	Swiss-Prot
+0	WBGene00010638	177837	Uncharacterized protein	Q21298	TrEMBL
+0	WBGene00010665	176814	UTP--glucose-1-phosphate uridylyltransferase	Q9XUS4	TrEMBL
+1	WBGene00010665	176814	UTP--glucose-1-phosphate uridylyltransferase	Q8WQE5	TrEMBL
+2	WBGene00010665	176814	UTP--glucose-1-phosphate uridylyltransferase	Q9XUS5	TrEMBL
+3	WBGene00010665	176814	UTP--glucose-1-phosphate uridylyltransferase	Q69Z13	TrEMBL
+0	WBGene00010766	173349	Ig-like domain-containing protein	G5ECC9	TrEMBL
+0	WBGene00010785	174825	DNA topoisomerase 2 top-2	Q23670	Swiss-Prot
+0	WBGene00010809	3564813	Lipoyl synthase, mitochondrial	Q21452	Swiss-Prot
+0	WBGene00010812	187375	putative 39S ribosomal protein L35, mitochondrial	Q21454	Swiss-Prot
+0	WBGene00010844	176461	uncharacterized protein	Q21486	TrEMBL
+0	WBGene00011015	179690	ATP synthase subunit e, mitochondrial	Q21732	TrEMBL
+0	WBGene00011058	173075	Farnesyl DiPhosphate Synthetase	O62336	TrEMBL
+0	WBGene00011142	176266	BUD13 homolog	P30640	Swiss-Prot
+0	WBGene00011273	174554	Putative ATP synthase subunit f, mitochondrial	Q22021	Swiss-Prot
+0	WBGene00011325	3565980	Uncharacterized protein	Q7YWW2	TrEMBL
+1	WBGene00011325	3565980	Uncharacterized protein	F5GUD8	TrEMBL
+0	WBGene00011334	174588	putative 40S ribosomal protein S14, mitochondrial	P49391	Swiss-Prot
+0	WBGene00011350	174273	PERMeable eggshell	Q22090	TrEMBL
+0	WBGene00011510	3565996	Pyruvate dehydrogenase E1 component subunit alpha;putative pyruvate dehydrogenase E1 component subunit alpha, mitochondrial	P52899	Swiss-Prot
+1	WBGene00011510	3565996	Pyruvate dehydrogenase E1 component subunit alpha;putative pyruvate dehydrogenase E1 component subunit alpha, mitochondrial	Q8I111	TrEMBL
+0	WBGene00011605	175549	SF3b1 domain-containing protein	G5EEQ8	TrEMBL
+0	WBGene00011631	172704	Trimethylguanosine synthase	A8WHU4	TrEMBL
+1	WBGene00011631	172704	Trimethylguanosine synthase	Q94013	TrEMBL
+0	WBGene00011634	174263	Uncharacterized protein	P45965	Swiss-Prot
+0	WBGene00011637	174266	Protein phosphatase 1 regulatory subunit SDS22 homolog	P45969	Swiss-Prot
+0	WBGene00011638	174268	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit	P45971	Swiss-Prot
+0	WBGene00011641	3565530	Uncharacterized protein	Q7YTK7	TrEMBL
+0	WBGene00011722	177979	Pre-mRNA-splicing factor RBM22	Q22412	TrEMBL
+1	WBGene00011722	177979	Pre-mRNA-splicing factor RBM22	A0A061ACS6	TrEMBL
+0	WBGene00011729	176802	Histone-lysine N-methyltransferase	G5EGI1	TrEMBL
+0	WBGene00011747	177816	Small Nuclear RNA (snRNA) Associated protein	Q94050	TrEMBL
+0	WBGene00011758	174364	Matrin-type domain-containing protein	Q22469	TrEMBL
+0	WBGene00011775	177891	Coatomer subunit gamma;putative coatomer subunit gamma	Q22498	Swiss-Prot
+1	WBGene00011775	177891	Coatomer subunit gamma;putative coatomer subunit gamma	Q2XN02	TrEMBL
+2	WBGene00011775	177891	Coatomer subunit gamma;putative coatomer subunit gamma	F5GUA3	TrEMBL
+3	WBGene00011775	177891	Coatomer subunit gamma;putative coatomer subunit gamma	A0A061ACR1	TrEMBL
+0	WBGene00011883	174422	39S ribosomal protein L50, mitochondrial	Q22623	TrEMBL
+0	WBGene00011897	179481	Mitochondrial import inner membrane translocase subunit TIM50	Q22647	Swiss-Prot
+0	WBGene00011944	172857	Protein LTV1 homolog	O02327	Swiss-Prot
+0	WBGene00012015	177971	6-phosphogluconate dehydrogenase, decarboxylating	Q17761	Swiss-Prot
+0	WBGene00012179	175141	Ribosomal protein L37	O62388	TrEMBL
+0	WBGene00012186	180352	Uncharacterized protein	C1P660	TrEMBL
+1	WBGene00012186	180352	Uncharacterized protein	C1P659	TrEMBL
+2	WBGene00012186	180352	Uncharacterized protein	H9G335	TrEMBL
+3	WBGene00012186	180352	Uncharacterized protein	H9G334	TrEMBL
+4	WBGene00012186	180352	Uncharacterized protein	B9WRT9	TrEMBL
+5	WBGene00012186	180352	Uncharacterized protein	H9G336	TrEMBL
+6	WBGene00012186	180352	Uncharacterized protein	C1P658	TrEMBL
+7	WBGene00012186	180352	Uncharacterized protein	O45881	TrEMBL
+0	WBGene00012187	175056	putative DNA-directed RNA polymerase II subunit RPB11	Q9XVH6	Swiss-Prot
+0	WBGene00012204	174752	Mitoferrin	Q23125	Swiss-Prot
+0	WBGene00012244	179711	Mitochondrial Ribosomal Protein, Small	Q23155	TrEMBL
+0	WBGene00012376	172734	putative NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial	Q94360	Swiss-Prot
+0	WBGene00012469	174850	putative RNA methyltransferase Y17G7B.18	Q9U2R0	Swiss-Prot
+0	WBGene00012550	176703	putative signal peptidase complex subunit 2	Q9XWW1	Swiss-Prot
+0	WBGene00012602	174898	Uncharacterized protein	Q9NAI7	TrEMBL
+0	WBGene00012697	180240	MRP-S28 domain-containing protein	Q9NEI6	TrEMBL
+1	WBGene00012697	180240	MRP-S28 domain-containing protein	D4YWC8	TrEMBL
+0	WBGene00012757	29991192	LITAF domain-containing protein	Q9XWU3	TrEMBL
+0	WBGene00012936	176544	DNA polymerase	C7IVS4	TrEMBL
+1	WBGene00012936	176544	DNA polymerase	Q9NAH1	TrEMBL
+0	WBGene00012992	174976	Mitochondrial Ribosomal Protein, Large	Q9NAG2	TrEMBL
+0	WBGene00013021	173216	INTegrator complex Subunit homolog	H2KML6	TrEMBL
+1	WBGene00013021	173216	INTegrator complex Subunit homolog	H2KML7	TrEMBL
+0	WBGene00013038	176672	Anillin-like protein 1	Q9XTT4	Swiss-Prot
+0	WBGene00013075	180207	INTegrator complex Subunit homolog	Q9U267	TrEMBL
+0	WBGene00013094	175038	Uncharacterized protein	Q9XWJ6	TrEMBL
+0	WBGene00013109	178464	Pre-rRNA-processing protein TSR2 homolog	Q2HQJ8	TrEMBL
+0	WBGene00013128	173005	Kin17_mid domain-containing protein	Q9XWF2	TrEMBL
+0	WBGene00013168	175162	Actin-Related Proteins	Q9NA98	TrEMBL
+1	WBGene00013168	175162	Actin-Related Proteins	U4PR70	TrEMBL
+0	WBGene00013311	178407	Plug_translocon domain-containing protein	O18239	TrEMBL
+1	WBGene00013311	178407	Plug_translocon domain-containing protein	G3MU88	TrEMBL
+0	WBGene00013406	173279	Complex I-B8	Q9XWG2	TrEMBL
+0	WBGene00013463	178288	KASH (Klarsicht/ANC-1/Syne Homology) Domain Protein	Q95PZ1	TrEMBL
+0	WBGene00013550	176649	GPN-loop GTPase 3	Q9XW68	TrEMBL
+0	WBGene00013677	173311	Tyrosine--tRNA ligase	G5ED95	TrEMBL
+0	WBGene00013678	173312	Methionine--tRNA ligase	B3KYC0	TrEMBL
+1	WBGene00013678	173312	Methionine--tRNA ligase	Q8WQA1	TrEMBL
+0	WBGene00013768	190979	DNA replication complex GINS protein SLD5;SLD5_C domain-containing protein	Q9U2W9	TrEMBL
+1	WBGene00013768	190979	DNA replication complex GINS protein SLD5;SLD5_C domain-containing protein	D9PTP4	TrEMBL
+2	WBGene00013768	190979	DNA replication complex GINS protein SLD5;SLD5_C domain-containing protein	D9PTP3	TrEMBL
+0	WBGene00013892	172902	Ribosomal RNA-processing protein 7 homolog	Q23314	Swiss-Prot
+0	WBGene00015235	172958	Anaphase-promoting complex subunit CDC26	G4RT11	Swiss-Prot
+0	WBGene00015330	177280	Uncharacterized protein	O44447	TrEMBL
+0	WBGene00015391	181108	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	Q09508	Swiss-Prot
+0	WBGene00015413	177108	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial	O44451	Swiss-Prot
+0	WBGene00015464	179120	Mannose-6-phosphate isomerase	O16315	TrEMBL
+0	WBGene00015515	174256	Spindly-like protein spdl-1	Q17695	Swiss-Prot
+0	WBGene00015734	175940	putative coatomer subunit delta	Q09236	Swiss-Prot
+0	WBGene00015916	173946	Wheel domain-containing protein	Q09974	TrEMBL
+0	WBGene00016115	173960	TFIIS N-terminal domain-containing protein	H2KYV0	TrEMBL
+0	WBGene00016118	173963	Complex I-SGDH	H2KYV1	TrEMBL
+0	WBGene00016140	175668	DNA-directed RNA polymerase II subunit RPB2	Q10578	Swiss-Prot
+0	WBGene00016171	175675	PCI domain-containing protein 2 homolog	Q95QU0	Swiss-Prot
+0	WBGene00016178	177655	MEiotic SPindle	Q18282	TrEMBL
+0	WBGene00016209	259333	Protein FMC1 homolog	Q8MNU8	Swiss-Prot
+0	WBGene00016291	177351	OOcyte Partner of Spe-11 (oops-1)	V6CKF6	TrEMBL
+1	WBGene00016291	177351	OOcyte Partner of Spe-11 (oops-1)	Q18343	TrEMBL
+0	WBGene00016412	175718	Mitochondrial Ribosomal Protein, Small	Q95QS3	TrEMBL
+0	WBGene00016422	172261	uncharacterized protein	Q8T3B7	TrEMBL
+1	WBGene00016422	172261	uncharacterized protein	H2KZ73	TrEMBL
+2	WBGene00016422	172261	uncharacterized protein	H8W3Y1	TrEMBL
+0	WBGene00016509	178872	Adenylosuccinate synthetase	P91134	Swiss-Prot
+0	WBGene00016583	183400	Mannose-1-phosphate guanyltransferase beta	A3QMC8	Swiss-Prot
+0	WBGene00016721	177368	Uncharacterized protein	O02142	TrEMBL
+0	WBGene00016793	183628	Actin-Related Proteins	Q9GYR2	TrEMBL
+0	WBGene00016837	171970	SYF pre-mRNA splicing factor homolog	P91175	TrEMBL
+0	WBGene00016907	171749	CP-type G domain-containing protein	O01826	TrEMBL
+0	WBGene00016913	180980	Laminin-like protein lam-2	Q18823	Swiss-Prot
+0	WBGene00016944	183841	URI (Unconventional prefoldin RPB5 Interactor) homolog	Q966M4	TrEMBL
+0	WBGene00016955	177348	PERMeable eggshell	Q18867	TrEMBL
+0	WBGene00016989	259341	Ribosomal_S10 domain-containing protein	O44159	TrEMBL
+0	WBGene00017016	179193	SNAP (Soluble NSF Attachment Protein) homolog	Q18921	TrEMBL
+0	WBGene00017119	177242	putative mitochondrial import inner membrane translocase subunit tim-17B.1	O44477	Swiss-Prot
+0	WBGene00017132	24104386	Embryonic developmental protein tofu-6	Q09293	Swiss-Prot
+0	WBGene00017162	175818	RNA helicase	Q95QN2	TrEMBL
+0	WBGene00017245	173625	Signal recognition particle subunit SRP72	P91240	Swiss-Prot
+0	WBGene00017282	173912	Alpha-1,3/1,6-mannosyltransferase ALG2	Q19265	TrEMBL
+0	WBGene00017313	179103	putative cleavage and polyadenylation specificity factor subunit 2	O17403	Swiss-Prot
+0	WBGene00017319	184267	putative 40S ribosomal protein S9, mitochondrial	P34388	Swiss-Prot
+0	WBGene00017327	266725	LTD domain-containing protein	H2KYU8	TrEMBL
+0	WBGene00017546	174238	putative replication factor A 73 kDa subunit	Q19537	Swiss-Prot
+0	WBGene00017605	179140	uncharacterized protein	O01524	TrEMBL
+0	WBGene00017608	179142	Beta-Casp domain-containing protein	Q95ZM2	TrEMBL
+0	WBGene00017642	177589	PCI domain-containing protein	Q19643	TrEMBL
+0	WBGene00017735	171801	uncharacterized protein	Q9TXI3	TrEMBL
+0	WBGene00017746	173383	Snurportin-1	O17066	TrEMBL
+0	WBGene00017769	178956	Hydroxymethylglutaryl-CoA synthase	P54871	Swiss-Prot
+0	WBGene00017830	175660	putative DNA-directed RNA polymerases I, II, and III subunit RPABC3	Q19826	Swiss-Prot
+0	WBGene00017832	266885	KNL (kinetochore null) Binding Protein	Q8MNT1	TrEMBL
+0	WBGene00017895	174004	Serine/threonine-protein kinase VRK1	Q19848	Swiss-Prot
+0	WBGene00017924	185109	Mitochondrial Ribosomal Protein, Small	Q9GYI2	TrEMBL
+0	WBGene00017925	177231	Uncharacterized protein	Q9GYI1	TrEMBL
+0	WBGene00017988	178835	FIP1-like 1 protein	A0A164D3G3	TrEMBL
+1	WBGene00017988	178835	FIP1-like 1 protein	O16293	TrEMBL
+0	WBGene00018151	176008	Acyl carrier protein	Q20122	TrEMBL
+0	WBGene00018270	173819	putative Golgi transport protein 1	Q20263	Swiss-Prot
+0	WBGene00018361	177606	Complex I-ESSS	O44509	TrEMBL
+0	WBGene00018391	174208	RPOL4c domain-containing protein	O02092	TrEMBL
+0	WBGene00018409	176131	putative replication factor C subunit 5	P34429	Swiss-Prot
+0	WBGene00018625	172999	WD_REPEATS_REGION domain-containing protein	O44729	TrEMBL
+0	WBGene00018782	173581	T-complex protein 1 subunit gamma	Q9N4J8	Swiss-Prot
+0	WBGene00018849	172984	FACT complex subunit spt-16	Q9N5R9	Swiss-Prot
+0	WBGene00018892	172225	Cir_N domain-containing protein	G5EBE3	TrEMBL
+0	WBGene00018997	186440	RNA helicase	Q20935	TrEMBL
+0	WBGene00019061	174059	ATP synthase subunit delta, mitochondrial	Q09544	Swiss-Prot
+0	WBGene00019220	173768	Prefoldin subunit 2	Q9N5M2	Swiss-Prot
+0	WBGene00019246	172412	DNA-directed RNA polymerases I, II, and III subunit RPABC1	Q9N5K2	Swiss-Prot
+0	WBGene00019305	176233	Soluble NSF attachment protein 29	P83351	Swiss-Prot
+0	WBGene00019323	172406	CPSF_A domain-containing protein	O44985	TrEMBL
+0	WBGene00019401	176001	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial;dNK domain-containing protein	Q21233	TrEMBL
+0	WBGene00019543	177236	COP9/Signalosome and eIF3 complex-shared subunit 1	Q94261	Swiss-Prot
+0	WBGene00019620	180918	Fumarylacetoacetase	Q94272	Swiss-Prot
+0	WBGene00019698	171883	Serine/threonine-protein kinase RIO1	O44959	Swiss-Prot
+0	WBGene00019821	176838	General Transcription Factor homolog	O44499	TrEMBL
+0	WBGene00020064	24104812	KNL (kinetochore null) Binding Protein	Q95QB8	TrEMBL
+0	WBGene00020092	246008	CID domain-containing protein;Polyadenylation and cleavage factor homolog 11	Q09345	Swiss-Prot
+0	WBGene00020112	176013	putative prefoldin subunit 5	Q21993	Swiss-Prot
+0	WBGene00020181	173459	Complex III subunit VII	Q9N5E4	TrEMBL
+0	WBGene00020269	179028	Eukaryotic peptide chain release factor subunit 1	O16520	Swiss-Prot
+0	WBGene00020383	172302	putative mitochondrial import inner membrane translocase subunit tin-44	O02161	Swiss-Prot
+0	WBGene00020391	178670	T-complex protein 1 subunit eta	Q9TZS5	TrEMBL
+1	WBGene00020391	178670	T-complex protein 1 subunit eta	Q86S29	TrEMBL
+0	WBGene00020417	172363	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Q86NC2	TrEMBL
+0	WBGene00020437	175886	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit stt-3	P46975	Swiss-Prot
+0	WBGene00020600	176055	Tetratricopeptide repeat-containing protein trd-1	P41842	Swiss-Prot
+0	WBGene00020636	176023	putative NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial	Q22619	Swiss-Prot
+0	WBGene00020683	177456	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	Q9GZH4	Swiss-Prot
+0	WBGene00020687	177458	RuvB-like 2	Q9GZH2	Swiss-Prot
+0	WBGene00020868	266853	SUI1 domain-containing protein	Q967F1	TrEMBL
+0	WBGene00020910	189077	Acyltransferase	Q23067	TrEMBL
+0	WBGene00020915	171901	Nop domain-containing protein	O45012	TrEMBL
+0	WBGene00020950	179063	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial	O45148	TrEMBL
+0	WBGene00021004	178542	PSP domain-containing protein	O16997	TrEMBL
+0	WBGene00021133	173436	Mitochondrial import receptor subunit TOM22 homolog	O17287	Swiss-Prot
+0	WBGene00021334	189590	Vesicle-fusing ATPase	Q9BL83	TrEMBL
+0	WBGene00021347	171763	DNA-directed RNA polymerases I, II, and III subunit RPABC5	Q9GR61	Swiss-Prot
+0	WBGene00021350	171767	60S ribosomal protein L27a	Q9BKU5	TrEMBL
+0	WBGene00021460	171798	Protein zwilch homolog	Q95XP9	Swiss-Prot
+0	WBGene00021466	171792	Protein-synthesizing GTPase	Q95XR0	TrEMBL
+0	WBGene00021470	171786	uncharacterized protein	G5EDE7	TrEMBL
+1	WBGene00021470	171786	uncharacterized protein	Q8WSN6	TrEMBL
+0	WBGene00021562	178735	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial	Q9N4Y8	TrEMBL
+0	WBGene00021626	178842	Riboflavin transporter;Riboflavin transporter rft-2	G4SDH4	Swiss-Prot
+1	WBGene00021626	178842	Riboflavin transporter;Riboflavin transporter rft-2	A0A168HBE9	TrEMBL
+2	WBGene00021626	178842	Riboflavin transporter;Riboflavin transporter rft-2	A0A168HBC9	TrEMBL
+0	WBGene00021692	259363	NDK domain-containing protein	Q7KX00	TrEMBL
+0	WBGene00021714	190078	CYclin H	Q9N4U0	TrEMBL
+0	WBGene00021715	173696	Fcf2 domain-containing protein	Q9N4U1	TrEMBL
+0	WBGene00021844	171876	Signal peptidase complex catalytic subunit SEC11	Q9N3D0	TrEMBL
+0	WBGene00021845	171877	DNA-directed RNA polymerase II subunit RPB7	Q9N3C9	TrEMBL
+0	WBGene00021849	175371	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8	Q9BL03	TrEMBL
+0	WBGene00021854	190268	Uncharacterized protein	Q965T2	TrEMBL
+0	WBGene00021868	177059	GB1/RHD3-type G domain-containing protein	U4PLG5	TrEMBL
+1	WBGene00021868	177059	GB1/RHD3-type G domain-containing protein	Q9BMU4	TrEMBL
+2	WBGene00021868	177059	GB1/RHD3-type G domain-containing protein	Q688Z6	TrEMBL
+3	WBGene00021868	177059	GB1/RHD3-type G domain-containing protein	U4PQS6	TrEMBL
+0	WBGene00021952	177103	Vacuolar H ATPase	Q9TYW1	Swiss-Prot
+0	WBGene00021959	179092	Uncharacterized protein	Q9N336	TrEMBL
+0	WBGene00022042	171646	Nascent polypeptide-associated complex subunit alpha	Q86S66	Swiss-Prot
+0	WBGene00022043	171645	DNA replication complex GINS protein PSF3	Q9BL54	TrEMBL
+0	WBGene00022089	177038	Uncharacterized protein	Q95XJ0	TrEMBL
+0	WBGene00022092	177037	uncharacterized protein	Q95XJ1	TrEMBL
+0	WBGene00022119	171860	Coatomer subunit alpha	Q9N4H7	TrEMBL
+0	WBGene00022122	171865	Signal sequence receptor subunit alpha	Q95XT5	TrEMBL
+0	WBGene00022146	171744	NAD(P)-bd_dom domain-containing protein	W6RS16	TrEMBL
+1	WBGene00022146	171744	NAD(P)-bd_dom domain-containing protein	Q95XM5	TrEMBL
+0	WBGene00022153	190600	Uncharacterized protein	Q95XN5	TrEMBL
+0	WBGene00022169	175397	Uncharacterized protein	Q9BL33	TrEMBL
+0	WBGene00022257	177406	PUM-HD domain-containing protein	Q8IU00	TrEMBL
+0	WBGene00022286	178629	Rho-GAP domain-containing protein	A0A0K3AT49	TrEMBL
+1	WBGene00022286	178629	Rho-GAP domain-containing protein	A0A0K3AW57	TrEMBL
+2	WBGene00022286	178629	Rho-GAP domain-containing protein	A0A0K3AYE4	TrEMBL
+3	WBGene00022286	178629	Rho-GAP domain-containing protein	H2KZS7	TrEMBL
+4	WBGene00022286	178629	Rho-GAP domain-containing protein	Q965S4	TrEMBL
+5	WBGene00022286	178629	Rho-GAP domain-containing protein	A0A0K3AVE9	TrEMBL
+6	WBGene00022286	178629	Rho-GAP domain-containing protein	A0A0K3ASJ8	TrEMBL
+0	WBGene00022373	171710	39S ribosomal protein L15, mitochondrial	Q9BPN6	TrEMBL
+0	WBGene00022458	172146	Pre-mRNA-processing factor 31	Q9N592	TrEMBL
+0	WBGene00022583	176176	Mitochondrial Ribosomal Protein, Small	Q95PY4	TrEMBL
+0	WBGene00022631	191199	Serine/threonine-protein kinase nekl-2	O01775	Swiss-Prot
+0	WBGene00022774	177325	SWI/SNF nucleosome remodeling complex component	Q9N4N4	TrEMBL
+0	WBGene00022776	177324	ER membrane protein complex subunit 4	Q9N4N3	TrEMBL
+0	WBGene00022854	191525	DNA topoisomerase-like protein cin-4	G5ECQ8	Swiss-Prot
+0	WBGene00023487	259579	28S ribosomal protein S24, mitochondrial	Q688C0	Swiss-Prot
+0	WBGene00023491	259720	Tetraspanin-21	Q5WRN1	Swiss-Prot
+0	WBGene00043064	259570	t-SNARE coiled-coil homology domain-containing protein	G5EEU1	TrEMBL
+0	WBGene00044008	3564968	Gamma-tubulin interacting protein 2	G5EF84	Swiss-Prot
+0	WBGene00044180	3565399	Uncharacterized protein	Q564Z2	TrEMBL
+0	WBGene00044251	3565901	UPF0598 protein F59C6.12	Q564X7	Swiss-Prot
+0	WBGene00044305	3565366	Reticulon-4-interacting protein 1, mitochondrial	Q4W4Z2	Swiss-Prot
+0	WBGene00044312	3564770	Uncharacterized protein	Q4TTC9	TrEMBL
+0	WBGene00044321	172957	Mitochondrial Ribosomal Protein, Small	O61818	TrEMBL
+0	WBGene00044329	178151	Cleavage and polyadenylation specificity factor subunit 4	Q7YTG9	TrEMBL
+0	WBGene00044393	3565182	Uncharacterized protein	Q4TTB8	TrEMBL
+0	WBGene00044737	4363063	TransThyretin-Related family domain	Q2EEM8	TrEMBL
+0	WBGene00044805	4363016	Major sperm protein	Q18LB3	TrEMBL
+0	WBGene00045398	6418614	Uncharacterized protein	A5A8Q1	TrEMBL
+0	WBGene00050916	6418681	Uncharacterized protein	A8WIS8	TrEMBL
+0	WBGene00050940	6418697	Uncharacterized protein	A8WHY4	TrEMBL
+0	WBGene00077453	6418641	Uncharacterized protein	A9IHM9	TrEMBL
+0	WBGene00077585	6418763	Uncharacterized protein	B1Q271	TrEMBL
+0	WBGene00194670	13221694	Uncharacterized protein	A0A8D9MTS1	TrEMBL
+0	WBGene00194700	13180429	Uncharacterized protein	C7FZT5	TrEMBL
+0	WBGene00194871	13190673	Uncharacterized protein	D1MN59	TrEMBL
+0	WBGene00194910	13213391	Uncharacterized protein	D2KT80	TrEMBL
+0	WBGene00194930	13205219	Uncharacterized protein	D3DEM3	TrEMBL
+0	WBGene00195149	13187945	Uncharacterized protein	D7SFQ1	TrEMBL
+0	WBGene00195256	13214826	Uncharacterized protein	E2JKZ9	TrEMBL
+0	WBGene00206360	13220955	Uncharacterized protein	E5QCE4	TrEMBL
+0	WBGene00206535	13218639	Uncharacterized protein	G3MU73	TrEMBL
+0	WBGene00219272	13185022	Uncharacterized protein	H2KYU1	TrEMBL
+0	WBGene00219317	13189998	Uncharacterized protein	H1ZUV9	TrEMBL
+0	WBGene00235102	24105155	Thioredoxin-like protein	L8E6I4	TrEMBL
+0	WBGene00235391	24104553	Uncharacterized protein	V6CLT2	TrEMBL
