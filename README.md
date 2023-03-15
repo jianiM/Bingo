@@ -77,7 +77,7 @@ dependencies:
    + scipy == 1.10.1
    + networkx == 3.0
    + matplotlib == 3.7.1 
-
+   + seaborn == 0.12.2
 ### Usage 
 
 1. setting the species, root_path and trimmed sequence length in config_init.py, generate residue-level features and contact map for each gene(protein) with well-      pretrained Evolutionary Scale Modeling(esm) method
