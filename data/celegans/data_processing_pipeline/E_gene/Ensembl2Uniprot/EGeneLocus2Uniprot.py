@@ -73,8 +73,8 @@ if __name__ == "__main__":
     species = "6239"
     rootpath = "/home/amber/EGP/Celegans/E_gene/Ensembl2Uniprot/mapping_genes"
     raw_file_path = "/home/amber/EGP/Celegans/E_gene/SouceData/OGEE_Celegans_EGenes.xlsx" 
-    DM_data = pd.read_excel(raw_file_path)
-    all_esembls = list(DM_data['locus']) 
+    gene_data = pd.read_excel(raw_file_path)
+    all_esembls = list(gene_data['locus']) 
     for obj in all_esembls: 
         generate_gene_card(obj,species,rootpath)    
         
