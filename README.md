@@ -1,4 +1,4 @@
-![Uploading fig1.jpg…]()
+![Uploading workflow.jpg…]()
 
 # Resources:
 + README.md: this file.
