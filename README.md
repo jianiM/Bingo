@@ -8,10 +8,23 @@
 # Datasets and Data Processing 
 The source data was downloaded from the Online GEne Essentiality (OGEE) database. After the data processing pipeline, we ultimately got the following datasets:
 
-## statistics of Caenorhabditis elegans (C.elegans)
+## statistics of Processed Dataset 
 
-Celegans_dataset: 578 ssential genes(positive samples)       
-                  13104 non-essnetial genes(negative samples)    
+### Caenorhabditis elegans
++ 578 essential genes(positive samples)       
++ 13104 non-essnetial genes(negative samples)    
+
+### Drosophila Melanogaster
++ 365 essential genes(positive samples)
++ 7178 non-essnetial genes(negative samples)    
+
+### Mus musculus
++ 2016 essential genes(positive samples)
++ 7794 non-essnetial genes(negative samples)    
+
+### Human Cell Line 
++ 877 essential genes(positive samples)
++ 16040 non-essnetial genes(negative samples)   
 
 ## data processing pipeline 
 Taking essential genes of C.elegans as example, 
@@ -61,7 +74,7 @@ the same data processing pipeline was also applied on the non-essential genes an
 + pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv torch_geometric -f https://data.pyg.org/whl/torch-1.13.0+cu116.html
 + pip install torch-geometric
 + pip install git+https://github.com/facebookresearch/esm.git
-+ python -c "import torch; model, alphabet = torch.hub.load("facebookresearch/esm:main", "esm2_t33_650M_UR50D")"
++ python -c "import torch; model, alphabet = torch.hub.load("facebookresearch/esm:main", "esm2_t33_650M_UR50D")
 
 dependencies: 
    + python == 3.9.16 
@@ -78,13 +91,14 @@ dependencies:
    + networkx == 3.0
    + matplotlib == 3.7.1 
    + seaborn == 0.12.2
+
 ### Usage 
 
-1. setting the species, root_path and trimmed sequence length in config_init.py, generate residue-level features and contact map for each gene(protein) with well-      pretrained Evolutionary Scale Modeling(esm) method
+1. setting the species, root_path and trimmed sequence length in config_init.py, generate residue-level features and contact map for each gene(protein) with well-pretrained Evolutionary Scale Modeling(esm) method
    + Running: 
    + python create_data.py 
    + Return: 
-     a bunch of gene information dictionaries for every gene: {'gene_ensembl':.., 'feature_representation':...,'cmap':...,'target':...} which are stored in the raw   package.
+     a bunch of gene information dictionaries for every gene: {'gene_ensembl':.., 'feature_representation':...,'cmap':...,'target':...} which are stored in the raw package.
 
 2. setting the n_splits, pos_samples_path, neg_samples_path and kfold_root_path in config_init.py, split the genes into training set and test set with kfold scheme.
    + Running:
@@ -94,14 +108,53 @@ dependencies:
 
 3. setting the ratio of contact map in config_init.py, transform the protein contact map into graph, and prepare the data format to meet the need of torch geometric.
    + Running: 
-   + python protein2graph.py
+   + python protein2graph.py 
    + Return: 
      train.pt and test.pt for each fold , and those train.pt and test.pt meet the demand of torch geometric.
 
+4. setting the GNN, GAT,GCN, GraphSAGE or GIN in config_init.py, then train and test model in the train-validation-test scheme under kfold cross validation
+   + Running: 
+   + python main.py -species "celegans"
+   +                -root_path "/home/amber/BioGen/data/"
+   +                -trim_thresh 1000
+   +                -n_splits 10
+   +                -pos_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_Essential_genes.xlsx"
+   +                -neg_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_NonEssential_genes.xlsx"
+   +                -kfold_root_path "/home/amber/BioGen/data/celegans/kfold_splitted_data"
+   +                -raw_data_path  "/home/amber/BioGen/data/celegans/raw/"
+   +                -ratio 0.2
+   +                -train_batch_size 32
+   +                -test_batch_size 8
+   +                -cuda_name "cuda:0"
+   +                -drop_prob 0.5
+   +                -n_output 1 
+   +                -lr 1e-5
+   +                -num_epoches 40
+   +                -weight_decay 5e-4
+   +                -modelling "gat"
+   +                -model_saving_path "/home/amber/BioGen/experiments/biogen_without_adv/gat_based/kfold_model_saving/"
 
-4. setting the GNN, GAT or GCN, in config_init.py, then train and test model in the train-validation-test scheme under kfold cross validation
-   + Running:
-   + python main.py  
+### Comparison Methods 
+
+As for language models, Transformer, BiLSTM and CNN, we first concreate the amino acid dictionary and the tokenized sequences for preparation:  
+
+1. create dictionary of amino acids of protein sequnce. 
++ python create_dictionary.py ---> amino_acid_dic.pkl
+
+2. record gene-fasta mapping information for input preparation
++ python gene_fasta_mapping.py ---> gene_fasta_dict.pkl 
+
+#### Transformer 
+train model with train-validation-test scheme under 10-fold CV  
++ python main.py 
+
+#### CNN
+train model with train-validation-test scheme under 10-fold CV  
++ python main.py 
+
+#### BiLSTM 
+train model with train-validation-test scheme under 10-fold CV  
++ python main.py 
 
 
 
