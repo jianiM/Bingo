@@ -1,4 +1,4 @@
-![Uploading workflow.jpg…]()
+![Alt text](https://github.com/jianiM/Bingo/workflow.jpg)
 
 # Resources:
 + README.md: this file.
