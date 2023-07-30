@@ -116,24 +116,24 @@ dependencies:
 4. setting the GNN, GAT,GCN, GraphSAGE or GIN in config_init.py, then train and test model in the train-validation-test scheme under kfold cross validation
    + Running: 
    + python main.py -species "celegans"
-   +                -root_path "/home/amber/BioGen/data/"
-   +                -trim_thresh 1000
-   +                -n_splits 10
-   +                -pos_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_Essential_genes.xlsx"
-   +                -neg_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_NonEssential_genes.xlsx"
-   +                -kfold_root_path "/home/amber/BioGen/data/celegans/kfold_splitted_data"
-   +                -raw_data_path  "/home/amber/BioGen/data/celegans/raw/"
-   +                -ratio 0.2
-   +                -train_batch_size 32
-   +                -test_batch_size 8
-   +                -cuda_name "cuda:0"
-   +                -drop_prob 0.5
-   +                -n_output 1 
-   +                -lr 1e-5
-   +                -num_epoches 40
-   +                -weight_decay 5e-4
-   +                -modelling "gat"
-   +                -model_saving_path "/home/amber/BioGen/experiments/biogen_without_adv/gat_based/kfold_model_saving/"
+     -root_path "/home/amber/BioGen/data/"
+     -trim_thresh 1000
+     -n_splits 10
+     -pos_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_Essential_genes.xlsx"
+     -neg_samples_path "/home/amber/BioGen/data/celegans/orig_sample_list/Celegans_NonEssential_genes.xlsx"
+     -kfold_root_path "/home/amber/BioGen/data/celegans/kfold_splitted_data"
+     -raw_data_path  "/home/amber/BioGen/data/celegans/raw/"
+     -ratio 0.2
+     -train_batch_size 32
+     -test_batch_size 8
+     -cuda_name "cuda:0"
+     -drop_prob 0.5
+     -n_output 1 
+     -lr 1e-5
+     -num_epoches 40
+     -weight_decay 5e-4
+     -modelling "gat"
+     -model_saving_path "/home/amber/BioGen/experiments/biogen_without_adv/gat_based/kfold_model_saving/"
 
 ### Comparison Methods 
 
