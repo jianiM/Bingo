@@ -1,3 +1,5 @@
+![workflow_of_bingo](https://github.com/jianiM/Bingo/tree/main/Bingo_workflow/workflow.jpg)
+
 # Resources:
 + README.md: this file.
 + list all files and packages of this project......
