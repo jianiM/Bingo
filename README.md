@@ -1,4 +1,3 @@
-![image](https://github.com/jianiM/Bingo/workflow.jpg)
 # Resources:
 + README.md: this file.
 + list all files and packages of this project......
